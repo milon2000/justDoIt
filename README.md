@@ -1,1 +1,1 @@
-Simple "to do list". I was practicing pure JavaScript; basic DOM manipulation.
+Simple "to do list". I was practicing plain JavaScript; basic DOM manipulation.
